@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nuxtpeapp-dev-203818-authRole",
+      "UnauthRoleArn": "arn:aws:iam::317786172055:role/amplify-nuxtpeapp-dev-203818-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::317786172055:role/amplify-nuxtpeapp-dev-203818-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-nuxtpeapp-dev-203818-deployment",
+      "UnauthRoleName": "amplify-nuxtpeapp-dev-203818-unauthRole",
+      "StackName": "amplify-nuxtpeapp-dev-203818",
+      "StackId": "arn:aws:cloudformation:ap-south-1:317786172055:stack/amplify-nuxtpeapp-dev-203818/b9e6c820-4a97-11ed-97d6-0691a8885b58",
+      "AmplifyAppId": "d7cvpqlv3u6nn"
+    }
+  }
+}
