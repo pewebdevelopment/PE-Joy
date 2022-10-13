@@ -1,0 +1,1 @@
+import{a5 as e}from"./entry.debd92e4.js";const l=`${e} from-yellow-400 via-red-500 to-purple-500`,a=`${e} from-red-400 via-yellow-500 to-blue-500`,n=(r,t)=>r?"text-red-600":t?"text-emerald-600":null;export{l as a,n as c,a as g};
