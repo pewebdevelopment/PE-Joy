@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper.a1a6add7.js";import{o as t,a as r,r as n}from"./entry.debd92e4.js";const s={},c={class:"rounded-2xl py-12 px-6 lg:px-12 text-center"};function _(e,a){return t(),r("div",c,[n(e.$slots,"default")])}const d=o(s,[["render",_]]);export{d as _};

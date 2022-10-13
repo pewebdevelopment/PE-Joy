@@ -1,1 +1,0 @@
-import{I as s,o as t,c as o,w as n,r as u,u as r}from"./entry.debd92e4.js";import{_}from"./UserAvatar.d9f353de.js";const p={__name:"UserAvatarCurrentUser",setup(m){const a=s();return(e,c)=>(t(),o(_,{username:r(a).userName,avatar:r(a).userAvatar},{default:n(()=>[u(e.$slots,"default")]),_:3},8,["username","avatar"]))}};export{p as _};
