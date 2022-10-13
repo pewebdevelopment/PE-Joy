@@ -1,6 +1,7 @@
 <script setup>
 import { ref, watch, computed, onMounted } from "vue";
-import {
+import pkg from 'chart.js'
+const {
   Chart,
   LineElement,
   PointElement,
@@ -8,7 +9,7 @@ import {
   LinearScale,
   CategoryScale,
   Tooltip,
-} from "chart.js";
+} = pkg;
 
 const props = defineProps({
   data: {
